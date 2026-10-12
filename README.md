@@ -33,3 +33,5 @@ Aplikasi menerapkan tiga jenis gesture:
 - Drag/Pan Gesture (onPanUpdate):
 
   Menggeser kartu sampah menuju kategori tempat sampah.
+
+  Link Video Penguin : https://youtu.be/RtU67Dk0ky8?si=Qwump1A8KJiQQpWn
