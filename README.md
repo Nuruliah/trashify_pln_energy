@@ -34,4 +34,4 @@ Aplikasi menerapkan tiga jenis gesture:
 
   Menggeser kartu sampah menuju kategori tempat sampah.
 
-  Link Video Penguin : https://youtu.be/RtU67Dk0ky8?si=Qwump1A8KJiQQpWn
+  Link Video Penguin aplikasi : https://youtu.be/RtU67Dk0ky8?si=Qwump1A8KJiQQpWn
